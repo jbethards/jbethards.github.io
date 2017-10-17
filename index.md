@@ -1,8 +1,12 @@
-## Joseph Bethards 
-Hi Dad
-
-
+# Joseph Bethards 
+Hi welcome to my GitHub website
 You can view my GitHub [here](https://github.com/jbethards)
+I don't have many repositories at the moment.
+-Python1 repository hosts a trivia game I created on Python.
+I plan on adding more solutions and c# files in the near future.
+
+
+
 
 ### Markdown
 
