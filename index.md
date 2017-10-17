@@ -1,9 +1,7 @@
-## Joseph Bethards Git Hub
-
+## Joseph Bethards 
+Hi Matt and Lucas
 
 You can view my GitHub [here](https://github.com/jbethards)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
