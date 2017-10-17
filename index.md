@@ -1,5 +1,6 @@
 ## Joseph Bethards 
-Hi Matt and Lucas
+Hi Dad
+
 
 You can view my GitHub [here](https://github.com/jbethards)
 
