@@ -1,5 +1,5 @@
 # Joseph Bethards 
-![image](C:\Users\Joseph Bethards\Pictures\6)
+![image-title-here](C:\Users\Joseph Bethards\Pictures\6){:class="img-responsive"}
 Hi welcome to my GitHub website
 You can view my GitHub [here](https://github.com/jbethards)
 I don't have many repositories at the moment.
