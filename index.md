@@ -54,11 +54,11 @@ I plan on adding more solutions and c# files in the near future.
 
 •	Develop Website mock-ups and concepts
 # Education and Certifications
-Bachelor of Applied Science, Software Development	                  Graduation June 2019
+## Bachelor of Applied Science, Software Development	                  Graduation June 2019
    
    Green River
 
-Associate Degrees in Technology & Business                          December 2017
+## Associate Degrees in Technology & Business                          December 2017
    
    Certificates in Application Development & Business Analysis 
    
@@ -75,10 +75,10 @@ Microsoft Technical Associate (MTA) Certifications                  2017
 
 	
 # Work Experience
-Grocery Outlet                                                     2015 / 2017
+## Grocery Outlet                                                     2015 / 2017
 	
 
-AIM Aerospace
+## AIM Aerospace
 Kevlar and Carbon Fiber Oven Operator and Assembly                 2015- 2017
 	
 
