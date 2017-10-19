@@ -65,7 +65,7 @@ I plan on adding more solutions and c# files in the near future.
    Pierce College; Grade Point Average (GPA): 3.2
 	
 
-Microsoft Technical Associate (MTA) Certifications                  2017
+## Microsoft Technical Associate (MTA) Certifications                  2017
    
    Database Fundamentals
    
