@@ -1,5 +1,5 @@
 # Joseph Bethards 
-![image](https://www.facebook.com/photo.php?fbid=1439713089394137&set=a.150756478289811.25764.100000663792648&type=3&theater)
+![image](C:\Users\Joseph Bethards\Pictures\6)
 Hi welcome to my GitHub website
 You can view my GitHub [here](https://github.com/jbethards)
 I don't have many repositories at the moment.
