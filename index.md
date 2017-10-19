@@ -1,5 +1,6 @@
 # Joseph Bethards 
-![image111](https://www.facebook.com/photo.php?fbid=1439713089394137&l=305158c669)
+![Microsoft Certified](https://gocertify.in/wp-content/uploads/2016/07/GCI-Microsoft-certification.jpg)
+
 Hi welcome to my GitHub website
 You can view my GitHub [here](https://github.com/jbethards)
 I don't have many repositories at the moment.
@@ -7,6 +8,82 @@ I don't have many repositories at the moment.
 -[Python1](https://github.com/jbethards/Python1) repository hosts a trivia game I created on Python.
 
 I plan on adding more solutions and c# files in the near future.
+
+# TechnicalSkills
+
+•	Object-Oriented Programming
+ 
+    •C#
+  
+    •Java
+
+•	SQL
+
+•	HTML5 CSS3
+
+•	ASP.NET
+
+•	JavaScript
+
+•	Xamarin mobile application development
+
+•	Jekyll scripting language
+
+•	Python
+
+•	Agile Development
+
+•	Full Stack Web Development
+
+# Professional Abilities
+•	Create detailed supporting documents
+
+•	Knowledge and understanding of Standard Work Operations 
+
+•	Ability to clarify, interpret and influence communication
+
+•	Ability to create, read, and balance an accounting ledger
+
+•	Ability to perform analysis
+
+    •	Gather data and identify requirements
+
+    •	Develop test requirements
+
+•	Develop appropriate database models and database design
+
+•	Develop Website mock-ups and concepts
+# Education and Certifications
+Bachelor of Applied Science, Software Development	                  Graduation June 2019
+   
+     Green River
+
+Associate Degrees in Technology & Business                          December 2017
+   
+    Certificates in Application Development & Business Analysis 
+   
+    Pierce College; Grade Point Average (GPA): 3.2
+	
+
+Microsoft Technical Associate (MTA) Certifications                  2017
+   
+    Database Fundamentals
+   
+    Software Development Fundamentals
+   
+    HTML5 Application Development Fundamentals	
+
+	
+# Work Experience
+Grocery Outlet                                                     2015 / 2017
+	
+
+AIM Aerospace
+Kevlar and Carbon Fiber Oven Operator and Assembly                 2015- 2017
+	
+
+
+
 
 
 
