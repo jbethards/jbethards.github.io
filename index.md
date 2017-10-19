@@ -13,9 +13,9 @@ I plan on adding more solutions and c# files in the near future.
 
 •	Object-Oriented Programming
  
-    •C#
+   •C#
   
-    •Java
+   •Java
 
 •	SQL
 
@@ -46,9 +46,9 @@ I plan on adding more solutions and c# files in the near future.
 
 •	Ability to perform analysis
 
-    •	Gather data and identify requirements
+   •Gather data and identify requirements
 
-    •	Develop test requirements
+   •Develop test requirements
 
 •	Develop appropriate database models and database design
 
@@ -56,22 +56,22 @@ I plan on adding more solutions and c# files in the near future.
 # Education and Certifications
 Bachelor of Applied Science, Software Development	                  Graduation June 2019
    
-     Green River
+   Green River
 
 Associate Degrees in Technology & Business                          December 2017
    
-    Certificates in Application Development & Business Analysis 
+   Certificates in Application Development & Business Analysis 
    
-    Pierce College; Grade Point Average (GPA): 3.2
+   Pierce College; Grade Point Average (GPA): 3.2
 	
 
 Microsoft Technical Associate (MTA) Certifications                  2017
    
-    Database Fundamentals
+   Database Fundamentals
    
-    Software Development Fundamentals
+   Software Development Fundamentals
    
-    HTML5 Application Development Fundamentals	
+   HTML5 Application Development Fundamentals	
 
 	
 # Work Experience
